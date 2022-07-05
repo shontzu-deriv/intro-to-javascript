@@ -7,13 +7,13 @@
 - **object**
 
 ## Methods
-- [] todo: revision
+- [ ] todo: revision
 
 ## Arithmetic Operators
-- [] todo: revision
+- [ ] todo: revision
 
 ## Variables
-- [] todo: revision
+- [ ] todo: revision
 
 ## Conditional Statements
 
